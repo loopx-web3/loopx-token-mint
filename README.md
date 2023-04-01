@@ -1,4 +1,5 @@
-# loopx-token-contract
+# LoopX Token Mint
+
 Token contract for initial LoopX official token mint
 
 ## Initial LoopX Settings
